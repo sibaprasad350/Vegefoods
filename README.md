@@ -9,15 +9,15 @@ Integration with MongoDB for efficient data storage and retrieval.
 ### Overview
 Vegefoods is an e-commerce website template tailored for businesses in the agriculture and organic sector. Its responsive design ensures a seamless experience across different devices, while the clean and minimalistic UI prioritizes user-friendliness.
 
-###Usage:
+### Usage:
 Customization: Easily customize the content to align with your specific requirements.
 Design Modification: Explore and modify the design elements as needed for your unique e-commerce platform.
-Integration: Integrate the template with a backend server and MongoDB for a complete and scalable solution.
+### Integration: Integrate the template with a backend server and MongoDB for a complete and scalable solution.
 Technologies Used
 HTML5
 Bootstrap 4
 MongoDB
-### Contributing
+### Contributing:
 We welcome contributions to enhance Vegefoods! Follow these steps:
 
 Fork the repository.
@@ -27,3 +27,4 @@ Push the branch to your fork.
 Create a pull request to merge your changes.
 
 ### Screenshot:
+
