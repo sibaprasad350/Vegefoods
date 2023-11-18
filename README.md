@@ -20,10 +20,10 @@ MongoDB
 ### Contributing:
 We welcome contributions to enhance Vegefoods! Follow these steps:
 
-Fork the repository.
+Fork the repository. 
 Create a new branch for your feature or bug fix.
-Make your changes and commit them.
-Push the branch to your fork.
+Make your changes and commit them. 
+Push the branch to your fork. 
 Create a pull request to merge your changes.
 
 ### Screenshot:
