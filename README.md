@@ -1,7 +1,7 @@
 # Vegefoods - Responsive Fruits and Vegetable E-Commerce Website
 Vegefoods is a free and responsive e-commerce website template designed for online vegetable shopping sites, organic farming, and similar purposes. It provides a clean and minimal design with a beautiful look, built using HTML5 and the latest Bootstrap 4 framework. MongoDB is integrated for efficient data management.
 
-###Features:
+### Features:
 Responsive design for optimal viewing on various devices.
 Clean and minimalistic user interface for an enhanced user experience.
 Built with HTML5 and Bootstrap 4 for modern web development.
@@ -12,8 +12,9 @@ Vegefoods is an e-commerce website template tailored for businesses in the agric
 ### Usage:
 Customization: Easily customize the content to align with your specific requirements.
 Design Modification: Explore and modify the design elements as needed for your unique e-commerce platform.
-### Integration: Integrate the template with a backend server and MongoDB for a complete and scalable solution.
-Technologies Used
+### Integration: 
+Integrate the template with a backend server and MongoDB for a complete and scalable solution.
+### Technologies Used:
 HTML5
 Bootstrap 4
 MongoDB
